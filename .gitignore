@@ -1,3 +1,5 @@
 /package-lock.json
 /node_modules
 /02Hooks/node_modules
+/02Hooks/.next
+/.next
